@@ -1,0 +1,96 @@
+commit f29d0aa09e336d97a628f5006b09570d5bbc8e50
+Author: pradeepchandra1306 <pradeepchandra1306@gmail.com>
+Date:   Wed Dec 20 10:44:51 2017 +0000
+
+    test copying
+
+commit d4925166b815530006f53e4bb586935ecacff88c
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Mon Oct 16 23:31:07 2017 -0400
+
+    :pencil: Clean up the README text
+
+commit 42ac3609482be8daa5a16bdbb6a36f359beb018d
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Mon Oct 16 23:29:59 2017 -0400
+
+    :pencil: Add a list of example projects
+
+commit 1cc01ccc044667204a1286cdce94cfe1f1b3d331
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Dec 21 21:03:19 2016 -0500
+
+    :sparkles: Add raw characters for all emoji
+
+commit 36516a034fa1ca0032a930a4ce06c0587801b444
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Dec 21 20:57:29 2016 -0500
+
+    :sparkles: Add shortcodes for all emoji
+
+commit 3927c8933c9923dc0273160efbc6391053b5e2bf
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Dec 21 20:46:43 2016 -0500
+
+    :pencil: Use more modern 'apt' instead of 'apt-get'
+
+commit 7bdf5e3243fdd5f972aaa1d89134b8aab9c66de2
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Dec 21 20:37:36 2016 -0500
+
+    :sparkles: Add a couple new emoji and clean up wording
+    
+    New: A/B tests, custom changes
+    Changed: Updating configs
+
+commit e8cb1a685c400067df92b4748276f9ecd2733cd4
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Dec 21 20:33:13 2016 -0500
+
+    :pencil: Add 'how to decide' section
+
+commit 60e5a8347963d0dc78ccdf447b8e0fa0751e0920
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Dec 21 20:19:28 2016 -0500
+
+    :fire: Deprecate platform-specific emoji
+    
+    It tends to look messy with multiple emoji per message,
+    and it's often easier and more clear to simply describe the
+    the affected platform in the commit message.
+
+commit a2a343d3b0fbda858ab9e367cba8b34a540935b4
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Nov 16 22:56:58 2016 -0500
+
+    :pencil: Add 'how to type' section
+
+commit a070b11e0127fbc05b8de798715a5a89d424d1f7
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Nov 16 22:49:01 2016 -0500
+
+    :pencil: Add 'motivation' section
+
+commit bbffc2ee00d42abd3ff30f47c4d0b9da15dc8376
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Nov 16 22:32:26 2016 -0500
+
+    :pencil: Add a few more credits
+
+commit 42fe65488be3556c1d7e4f0f28892f825baa2963
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Nov 16 22:25:25 2016 -0500
+
+    :art: Center the emoji symbols in the table
+
+commit 418291459d3892a1a2d123712159680f13678b5c
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Nov 16 22:23:06 2016 -0500
+
+    ✨  Add all the emoji!
+
+commit 041c525a04d03d8dbcb6d88b177d4c3bb8932c34
+Author: Kevin Cooper <cooperka92@gmail.com>
+Date:   Wed Nov 16 22:20:06 2016 -0500
+
+    🎉  Initial commit
